@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Owner OALaundry</string>
+    <string name="title_activity_main">Owner OALaundry</string>
+    <string name="package_name">com.oalaundry.ownerapp</string>
+    <string name="custom_url_scheme">com.oalaundry.ownerapp</string>
+</resources>

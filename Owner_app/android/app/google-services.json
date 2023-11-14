@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1004784344278",
+    "firebase_url": "https://oalaundry-default-rtdb.firebaseio.com",
+    "project_id": "oalaundry",
+    "storage_bucket": "oalaundry.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004784344278:android:3cc8c1a288895ce194bd77",
+        "android_client_info": {
+          "package_name": "com.oalaundry.ownerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk-nSgxexfCE3UV5Ep8vnbWfa00yvJWC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
